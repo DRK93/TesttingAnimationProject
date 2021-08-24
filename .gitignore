@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+[Aa]ssets/SampleScenes/
+[Aa]ssets/Standard Assets/
+TestingAnimationProject/Assets/SampleScenes/
+TestingAnimationProject/Assets/Standard Assets/
 
 # Visual Studio cache directory
 .vs/
